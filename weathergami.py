@@ -15,7 +15,7 @@ inTmax= "%.1f" % (int(sys.argv[2]))
 inTmin= "%.1f" % (int(sys.argv[3]))
 
 # Other Arguments that can be changed
-author='Jared Renine (@jjrennie)'
+author='Jared Rennie (@jjrennie)'
 dpi=100
 
 # Build JSON to access ACIS API (from https://www.rcc-acis.org/docs_webservices.html)
